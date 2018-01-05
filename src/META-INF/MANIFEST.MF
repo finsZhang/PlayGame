@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Class-Path: lib\asm-3.3.1.jar lib\jna-4.2.2.jar lib\cglib-2.2.2.jar li
+ b\itext-2.1.7.jar lib\lept4j-1.1.2.jar lib\log4j-1.2.17.jar lib\tess4
+ j-3.1.0.jar lib\ghost4j-1.0.1.jar lib\commons-io-2.4.jar lib\rococoa-
+ core-0.5.jar lib\slf4j-api-1.7.18.jar lib\logback-core-1.1.6.jar lib\
+ jul-to-slf4j-1.7.19.jar lib\commons-logging-1.1.1.jar lib\jcl-over-sl
+ f4j-1.7.19.jar lib\logback-classic-1.1.6.jar lib\jai-imageio-core-1.3
+ .1.jar lib\commons-beanutils-1.9.2.jar lib\xmlgraphics-commons-1.4.ja
+ r lib\commons-collections-3.2.1.jar
+Main-Class: org.zfz.app.ServerApp
+
